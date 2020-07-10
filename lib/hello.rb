@@ -7,6 +7,7 @@ while i < array.length
                 # through our while loop, yielding each to a block
   i += 1
 end
+array
 end
 
 # call your method here!
